@@ -1,4 +1,4 @@
-__author__ = 'Wippler'
+__author__ = 'reddit.com/u/DotGaming'
 
 
 import huobi
